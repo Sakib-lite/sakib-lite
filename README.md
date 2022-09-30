@@ -40,6 +40,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
+- 📝 Checkout my [Resume](https://github.com/Sakib-lite/sakib-lite/files/9675382/Sakibul_Anwar_Resume.pdf)
+
+- 🏢 Currently studying in **Computer Science**
+
 - 🌱 I do solve at least one problem on leetcode on a daily basis
 
 - :zap: In my free time, read tech articles and books.
@@ -54,11 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :calendar: Learning Graphql
 - ⚙️ Building a project on socket and webRTC
 
-#### Bio
-
-- 🏢 I'm currently studying in **Computer Science**
-- 💬 Knock me about **Javascript**, **NextJS**
-- 📝 Checkout my [Resume](https://github.com/Sakib-lite/sakib-lite/files/9675382/Sakibul_Anwar_Resume.pdf)
 
 #### My Current Stack
 
