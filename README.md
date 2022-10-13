@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- 📝 Checkout my [Resume](https://github.com/Sakib-lite/sakib-lite/files/9675382/Sakibul_Anwar_Resume.pdf)
+- 📝 Checkout my [Resume](https://github.com/Sakib-lite/sakib-lite/files/9771724/Sakibul_Anwar.pdf)
 
 - 🏢 Currently studying in **Computer Science**
 
