@@ -55,7 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ✨ Reading book about Design Pattern  and Clean Code- Robert C. Martin.
 - :fire: Interested in Microservice and Cloud engineering;
-- :calendar: Learning Graphql
+- :calendar: Learning Docker & Kubernetes
 - ⚙️ Building a project on socket and webRTC
 
 
