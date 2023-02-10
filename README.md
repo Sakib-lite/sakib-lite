@@ -8,7 +8,7 @@
   Hi there, I am Sakibul Anwar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- Full Stack Developer
+ Software Engineer Intern at SoftBD Limited
 
 ---
 
