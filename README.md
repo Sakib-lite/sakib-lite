@@ -39,7 +39,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chittagong,Bangladesh.
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
-- 📝 Checkout my [Resume]([Sakibul_Anwar.pdf](https://github.com/Sakib-lite/Head_First_DesignPattern_Practice/files/14157297/Sakibul_Anwar.pdf))
+- 📝 Checkout my [Resume](https://github.com/Sakib-lite/Head_First_DesignPattern_Practice/files/14157297/Sakibul_Anwar.pdf)
 
 - 🏢 Studied in **Computer Science**
 
